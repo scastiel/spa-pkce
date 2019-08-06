@@ -52,7 +52,6 @@ async function handleCallback() {
     return;
   }
 
-  sessionStorage.has
   const config = await getConfig();
 
   // exchange the authorization code for a tokenset
